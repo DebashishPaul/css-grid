@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.top-logo img{
+  padding-top: 31px;
+  height: 142px;
+}
+
+.each-box{
+  background-image: linear-gradient(to right, #6C0534 , #CC0A61);
+  height: 121px;
+  border-radius: 10px;
+  color: #ffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.box-between{
+  padding-top: 7%;
+}
+
+.each-box-icon img{
+  height: 78px;
+}
